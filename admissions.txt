@@ -1,0 +1,7 @@
+2026-03-05 20:11:59 | Patient 101 admitted | Bed 1 | Sev 5 | Dr 1 | Nurse 1 | Equip YES | Dx: appendicitis 
+2026-03-05 20:12:33 | Patient 102 admitted | Bed 2 | Sev 2 | Dr 2 | Nurse 2 | Equip YES | Dx: mild fever
+2026-03-05 23:14:44 | Patient 104 admitted | Bed 1 | Sev 5 | Dr 1 | Nurse 1 | Equip YES | Dx: severe head concussion
+
+2026-03-06 14:45:00 | Patient 105 admitted | Bed 1 | Sev 4 | Dr 1 | Nurse 1 | Equip YES | Dx: trauma
+2026-03-06 14:45:25 | Patient 106 admitted | Bed 2 | Sev 3 | Dr 2 | Nurse 2 | Equip YES | Dx: malaria
+2026-03-06 14:48:05 | Patient 107 admitted | Bed 1 | Sev 5 | Dr 1 | Nurse 3 | Equip YES | Dx: fracture 

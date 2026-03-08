@@ -1,0 +1,4 @@
+Timestamp,TotalBeds,OccupiedBeds,AvailableEquip,InUseEquip,FaultyEquip,TotalPatients,BedOccupancyRate,EquipUtilRate
+2026-03-05 20:13:41,5,2,2,1,0,2,40.000000,33.333333
+2026-03-05 23:15:45,4,1,3,0,0,1,25.000000,0.000000
+2026-03-06 14:58:30,2,2,1,2,0,2,100.000000,66.666667

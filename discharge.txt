@@ -1,0 +1,2 @@
+2026-03-05 20:14:26 | Patient 102 discharged
+2026-03-06 14:48:05 | Patient 105 discharged
